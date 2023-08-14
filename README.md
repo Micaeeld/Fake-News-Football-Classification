@@ -1,3 +1,6 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
+
 # Fake News Football Classification
 
 This Python notebook features a file that contains 40,000 texts with fake and real football news. this data is preprocessed using nltk and trained using Naive Bayes.
