@@ -5,7 +5,7 @@ Este projeto tem como objetivo desenvolver um classificador de textos para disti
 O objetivo principal deste projeto é:
 
 - Desenvolver um classificador de textos eficaz que possa diferenciar entre notícias verdadeiras e falsas sobre futebol.
-- 
+  
 ## Funcionalidades
 O projeto inclui as seguintes funcionalidades:
 
